@@ -1,0 +1,27 @@
+{
+  "name": "city-country-timezone",
+  "version": "1.0.0",
+  "description": "Find the timezone from countries given or city and country indicated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rotimi-Best/city-country-timezone.git"
+  },
+  "keywords": [
+    "timezone",
+    "country",
+    "city-timezone",
+    "date",
+    "time",
+    "country-timezone"
+  ],
+  "author": "Rotimi-Best",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rotimi-Best/city-country-timezone/issues"
+  },
+  "homepage": "https://github.com/Rotimi-Best/city-country-timezone#readme"
+}
