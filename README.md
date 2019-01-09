@@ -13,11 +13,11 @@ By passing a country, province or city you would get an object with the timezone
 ## Code snippet
 
 ```javascript
-    const getTimeDiffAndTimeZone = require('city-country-timezone');
+const getTimeDiffAndTimeZone = require('city-country-timezone');
 
-    const country = "Los Angeles";
+const country = "Los Angeles";
 
-    const { timezone, time_diff } = getTimeDiffAndTimeZone(country);
+const { timezone, time_diff } = getTimeDiffAndTimeZone(country);
 
-    console.log(`Timezone: ${timezone}, Time Difference: ${time_diff}`); // Timezone: America/Santiago, Time Difference: -5
+console.log(`Timezone: ${timezone}, Time Difference: ${time_diff}`); // Timezone: America/Santiago, Time Difference: -5
 ```
