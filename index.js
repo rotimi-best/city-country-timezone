@@ -155,7 +155,7 @@ const calcTimeDiff = timeFromTz => {
 
 /**
  * 
- * Time difference and Timezone from a given location(country)
+ * Timezone and Time difference from a given location(country)
  * 
  * @param {string} country a city, country, province or all together
  * @returns {Object}
