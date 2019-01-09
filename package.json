@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Rotimi-Best/city-country-timezone/issues"
   },
-  "homepage": "https://github.com/Rotimi-Best/city-country-timezone#readme"
+  "homepage": "https://github.com/Rotimi-Best/city-country-timezone#readme",
+  "dependencies": {
+    "city-timezones": "^1.0.6"
+  }
 }
