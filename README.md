@@ -23,5 +23,6 @@ const country = "Los Angeles";
 
 const { timezone, time_diff } = getTimeDiffAndTimeZone(country);
 
-console.log(`Timezone: ${timezone}, Time Difference: ${time_diff}`); // Timezone: America/Santiago, Time Difference: -5
+console.log(`Timezone: ${timezone}, Time Difference: ${time_diff}`); 
+// Timezone: America/Santiago, Time Difference: -5
 ```
