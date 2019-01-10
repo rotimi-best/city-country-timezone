@@ -1,4 +1,7 @@
 # city-country-timezone
+
+[![NPM](https://nodei.co/npm/city-country-timezone.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/city-country-timezone/)
+
 Find timezone of any country, city or province
 
 ## About
