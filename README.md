@@ -5,18 +5,18 @@
 Find timezone of any country, city or province
 
 ## About
+
 By passing a country, province or city you would get an object with the timezone of that location you indicated and then the difference in hours between that location you indicated and the location where the code is running (know as `time_diff`). The location used to test this code is `Odessa, Ukraine` which would determine the outcome of the `time_diff`
 
+## Getting Started
 
-# Getting Started
+### Installation
 
-## Installation
+`npm install city-country-timezone`
 
-`npm install --save city-country-timezone`
+### Code snippet
 
-## Code snippet
-
-### Search by city
+#### Search by city
 
 ```javascript
 const getTimeDiffAndTimeZone = require('city-country-timezone');
@@ -29,7 +29,7 @@ console.log(`Timezone: ${timezone}, Time Difference: ${time_diff}`);
 // Timezone: America/Santiago, Time Difference: -5
 ```
 
-### Search by region and country
+#### Search by region and country
 
 ```javascript
 const getTimeDiffAndTimeZone = require('city-country-timezone');
@@ -42,8 +42,7 @@ console.log(`Timezone: ${timezone}, Time Difference: ${time_diff}`);
 // Timezone: Europe/Moscow, Time Difference: +1
 ```
 
-
-### Search by city and country
+#### Search by city and country
 
 ```javascript
 const getTimeDiffAndTimeZone = require('city-country-timezone');
