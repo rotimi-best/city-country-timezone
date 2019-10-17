@@ -1,6 +1,6 @@
 {
   "name": "city-country-timezone",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Find the timezone from countries given or city and country indicated.",
   "main": "index.js",
   "scripts": {
