@@ -26,5 +26,8 @@
   "homepage": "https://github.com/Rotimi-Best/city-country-timezone#readme",
   "dependencies": {
     "city-timezones": "^1.0.6"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
